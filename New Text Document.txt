@@ -1,0 +1,56 @@
+
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title> Hotel Website | About</title>
+		<link href="css/style.css" rel="stylesheet" type="text/css"  media="all" />
+		<link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
+	</head>
+	<body>
+		<!---start-Wrap--->
+			<!---start-header--->
+			<div class="header">
+				<div class="wrap">
+					<div class="header-top">
+						<div class="logo">
+							<a href="index.html"><img src="images/logo2.png" title="logo" /></a>
+						</div>
+						<div class="contact-info">
+							<p class="phone">Call us : <a href="#">08644-123456</a></p>
+							
+						</div>
+						<div class="clear"> </div>
+					</div>
+				</div>
+				<div class="header-top-nav">
+					<div class="wrap">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li class="active"><a href="about.html">About</a></li>
+							<li><a href="services.html">Services</a></li>
+							<li><a href="gallery.html">Gallery</a></li>
+							<li><a href="contact.html">Contact</a></li>
+							<div class="clear"> </div>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="content-box">
+                <div class="wrap">
+                
+            <p style="font-size:18px; ">Welcome to the Ocean View Hotel, where we pride ourselves on serving delicious and satisfying cuisine that will tantalize your taste buds! Our menu features an array of delectable dishes made from the freshest and highest quality ingredients, sourced from local suppliers whenever possible.</p>
+                    <br>
+            <p style="font-size:18px; ">For breakfast, start your day off right with our fluffy and flavorful pancakes, made with our special house-made batter and served with a side of crispy bacon and fresh fruit. Or try our hearty and wholesome breakfast burrito, filled with scrambled eggs, cheese, and your choice of meat or veggies.</p>
+                    <br>
+            <p style="font-size:18px; ">For lunch, indulge in our succulent shrimp scampi, served with a side of garlic bread and a crisp mixed greens salad. Or savor our grilled chicken sandwich, made with juicy chicken breast, melted cheese, and a zesty aioli, all nestled between two slices of freshly baked bread.</p>
+                    <br>
+            <p style="font-size:18px; ">For dinner, treat yourself to our mouthwatering filet mignon, cooked to perfection and served with a side of creamy mashed potatoes and buttery asparagus. Or try our signature seafood paella, filled with plump shrimp, tender mussels, and flavorful saffron rice.</p>
+                    <br>
+            <p style="font-size:18px; ">Whatever your craving, the Ocean View Hotel has something to satisfy. So come dine with us and experience the delicious flavors of our coastal cuisine!</p>
+            
+            </div>
+            </div>
+
+	</body>
+</html>
+
